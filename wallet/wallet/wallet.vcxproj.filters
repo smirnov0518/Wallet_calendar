@@ -18,5 +18,13 @@
     <ClCompile Include="Calendary.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Show_calend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Show_calend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

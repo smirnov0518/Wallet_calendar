@@ -1,3 +1,2 @@
 ﻿  Calendary.cpp
-c:\users\second\source\repos\wallet\wallet\calendary.cpp(60): warning C4717: 'show_calend': recursive on all control paths, function will cause runtime stack overflow
   wallet.vcxproj -> C:\Users\second\source\repos\wallet\Debug\wallet.exe
